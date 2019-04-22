@@ -7,6 +7,6 @@ var searchData=
   ['thread_2eh',['thread.h',['../thread_8h.html',1,'']]],
   ['threadqueue_2eh',['threadqueue.h',['../threadqueue_8h.html',1,'']]],
   ['time_2eh',['time.h',['../time_8h.html',1,'']]],
-  ['title_2eh',['title.h',['../title_8h.html',1,'']]],
+  ['title_2eh',['title.h',['../coreinit_2title_8h.html',1,'(Global Namespace)'],['../sysapp_2title_8h.html',1,'(Global Namespace)']]],
   ['typecheck_2dgcc_2eh',['typecheck-gcc.h',['../typecheck-gcc_8h.html',1,'']]]
 ];

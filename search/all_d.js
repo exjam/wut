@@ -6,6 +6,7 @@ var searchData=
   ['memory_20map',['Memory Map',['../group__coreinit__memorymap.html',1,'']]],
   ['message_20queue',['Message Queue',['../group__coreinit__msgq.html',1,'']]],
   ['mutex',['Mutex',['../group__coreinit__mutex.html',1,'']]],
+  ['memory_20operations',['Memory Operations',['../group__dmae__mem.html',1,'']]],
   ['memory',['Memory',['../group__gx2__mem.html',1,'']]],
   ['memory',['Memory',['../group__gx2r__mem.html',1,'']]],
   ['mag',['mag',['../group__vpad__input.html#a4bdb9f37c7c9b4544422ca75eb95744c',1,'VPADStatus']]],
@@ -59,7 +60,7 @@ var searchData=
   ['mcpregion',['MCPRegion',['../group__coreinit__mcp.html#ga4d8a293a663bd71df5967c7e00c31f37',1,'MCPRegion():&#160;mcp.h'],['../group__coreinit__mcp.html#ga0cbde5f769aefebb505b628b90f731d0',1,'MCPRegion():&#160;mcp.h']]],
   ['mcpsysprodsettings',['MCPSysProdSettings',['../group__coreinit__mcp.html#structMCPSysProdSettings',1,'MCPSysProdSettings'],['../group__coreinit__mcp.html#gafe5934eb791c47d8a763cb091da8ccd2',1,'MCPSysProdSettings():&#160;mcp.h']]],
   ['mcptitlelisttype',['MCPTitleListType',['../group__coreinit__mcp.html#structMCPTitleListType',1,'MCPTitleListType'],['../group__coreinit__mcp.html#gabef9e0da6d27f11f0d1c1b71778d4866',1,'MCPTitleListType():&#160;mcp.h']]],
-  ['mem_2eh',['mem.h',['../mem_8h.html',1,'(Global Namespace)'],['../_2mem_8h.html',1,'(Global Namespace)']]],
+  ['mem_2eh',['mem.h',['../dmae_2mem_8h.html',1,'(Global Namespace)'],['../gx2_2mem_8h.html',1,'(Global Namespace)'],['../gx2r_2mem_8h.html',1,'(Global Namespace)']]],
   ['mem_5fbase_5fheap_5ffg',['MEM_BASE_HEAP_FG',['../group__coreinit__memheap.html#gga552d2fdd0b6f216c1bc8bad6a02e1ea4a5d870bd01e6cc7f0852f174b3c24abf0',1,'memheap.h']]],
   ['mem_5fbase_5fheap_5fmem1',['MEM_BASE_HEAP_MEM1',['../group__coreinit__memheap.html#gga552d2fdd0b6f216c1bc8bad6a02e1ea4a540e199d1bc7fbc82846adb9afbc208f',1,'memheap.h']]],
   ['mem_5fbase_5fheap_5fmem2',['MEM_BASE_HEAP_MEM2',['../group__coreinit__memheap.html#gga552d2fdd0b6f216c1bc8bad6a02e1ea4afb95e153ee0ad2cbe78b717085e9d369',1,'memheap.h']]],
@@ -184,8 +185,6 @@ var searchData=
   ['miplevels',['mipLevels',['../group__gx2__surface.html#a4ec7bfbc7ae5f5c9a66ad9c7a742355c',1,'GX2Surface']]],
   ['mipmaps',['mipmaps',['../group__gx2__surface.html#a31b8308cdee23e164a3ed96c2ba9948c',1,'GX2Surface']]],
   ['mipmapsize',['mipmapSize',['../group__gx2__surface.html#a5fc8c49490fc5bd5142896438c917b81',1,'GX2Surface']]],
-  ['mmcr0',['mmcr0',['../group__coreinit__context.html#af989157a101dc12bb362bcd3b87996ef',1,'OSContext']]],
-  ['mmcr1',['mmcr1',['../group__coreinit__context.html#aa99fc1b6a6f591b7b412c53fbcabcd34',1,'OSContext']]],
   ['mode',['mode',['../group__coreinit__event.html#a12258f18f1ea9dac6cf1682225351f1b',1,'OSEvent::mode()'],['../group__coreinit__fs.html#aebf0b867285086136461bbcdc6ffe535',1,'FSStat::mode()'],['../group__gx2__shader.html#a80b833f04b3c09b9063389cb2d114dec',1,'GX2VertexShader::mode()'],['../group__gx2__shader.html#a80b833f04b3c09b9063389cb2d114dec',1,'GX2PixelShader::mode()'],['../group__gx2__shader.html#a80b833f04b3c09b9063389cb2d114dec',1,'GX2GeometryShader::mode()']]],
   ['model_5fnumber',['model_number',['../group__coreinit__mcp.html#a20dd958761a5da9bd702322a640fd3ee',1,'MCPSysProdSettings']]],
   ['modified',['modified',['../group__coreinit__fs.html#a922db6257f0e2d9b56168a0e1d257c29',1,'FSStat']]],
@@ -318,7 +317,5 @@ var searchData=
   ['msg_5fpeek',['MSG_PEEK',['../group__nsysnet__socket.html#ga60c35b1016d0d87fe1066ea817acad98',1,'socket.h']]],
   ['multi_2eh',['multi.h',['../multi_8h.html',1,'']]],
   ['muteallsound',['MuteAllSound',['../namespacenn_1_1swkbd.html#a4ad447d6827aec53314e618ed15d69f5',1,'nn::swkbd']]],
-  ['mutex',['mutex',['../group__coreinit__thread.html#a8f0e11d3f286a61d3ed336429d317abf',1,'OSThread']]],
-  ['mutex_2eh',['mutex.h',['../mutex_8h.html',1,'']]],
-  ['mutexqueue',['mutexQueue',['../group__coreinit__thread.html#a1a546bbd037b80cd528453546cf0a341',1,'OSThread']]]
+  ['mutex_2eh',['mutex.h',['../mutex_8h.html',1,'']]]
 ];

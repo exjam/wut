@@ -10,7 +10,11 @@ var searchData=
   ['destroy',['Destroy',['../namespacenn_1_1swkbd.html#ad79674a6f095bac6a4be4cf1e86e88a6',1,'nn::swkbd']]],
   ['disappearinputform',['DisappearInputForm',['../namespacenn_1_1swkbd.html#a1f43e4220679bc2859195216d891cd70',1,'nn::swkbd']]],
   ['disappearkeyboard',['DisappearKeyboard',['../namespacenn_1_1swkbd.html#ab997369348a176c2a2dc0a3cd848bd70',1,'nn::swkbd']]],
+  ['disassembleppcopcode',['DisassemblePPCOpcode',['../group__coreinit__debug.html#ga9422f80e98c4138949948bae15ba2963',1,'debug.h']]],
   ['disassembleppcrange',['DisassemblePPCRange',['../group__coreinit__debug.html#ga879bee27bdd479c338b2b9e555e95b1c',1,'debug.h']]],
+  ['dmaecopymem',['DMAECopyMem',['../group__dmae__mem.html#ga87ca411f318c410f755c017b89c2a7cc',1,'mem.h']]],
+  ['dmaefillmem',['DMAEFillMem',['../group__dmae__mem.html#ga8b233c1bb03b18749c62eaf0715dd4ad',1,'mem.h']]],
+  ['dmaewaitdone',['DMAEWaitDone',['../group__dmae__sync.html#ga83089a04fcf5dee2c7244f57308e7145',1,'sync.h']]],
   ['drawdrc',['DrawDRC',['../namespacenn_1_1swkbd.html#a05d0158f1c211bb9932bfe75394a9ba1',1,'nn::swkbd']]],
   ['drawstringinfo',['DrawStringInfo',['../structnn_1_1swkbd_1_1DrawStringInfo.html#a75d5aaaba7f1ccafb6e27eaa23ce6a97',1,'nn::swkbd::DrawStringInfo']]],
   ['drawtv',['DrawTV',['../namespacenn_1_1swkbd.html#acdf2f2e77c26df19b3ac0d168f364d66',1,'nn::swkbd']]]

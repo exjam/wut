@@ -39,10 +39,6 @@ var searchData=
   ['pid',['pid',['../group__nsyshid__hid.html#a9089e9c40db82122a499b9620e2cb54e',1,'HIDDevice']]],
   ['pipeline',['pipeline',['../group__sndcore2__core.html#a177507ac432771e099eb6c006163e71e',1,'AXInitParams']]],
   ['pitch',['pitch',['../group__gx2__surface.html#a169952c253c9909a5f727afaec738893',1,'GX2Surface']]],
-  ['pmc1',['pmc1',['../group__coreinit__context.html#a5c7fe32d8c333859adf07d0d51248e08',1,'OSContext']]],
-  ['pmc2',['pmc2',['../group__coreinit__context.html#ae13713d587c850fc1bfdcf9b4889217f',1,'OSContext']]],
-  ['pmc3',['pmc3',['../group__coreinit__context.html#ad1b6711759d29126acd1ee809f545a56',1,'OSContext']]],
-  ['pmc4',['pmc4',['../group__coreinit__context.html#a0581363c9dee8cdaa94dd1d83c6ccc25',1,'OSContext']]],
   ['pos',['pos',['../group__padscore__kpad.html#afe21caa642c86850fe79ed98bb39d712',1,'KPADStatus']]],
   ['posvalid',['posValid',['../group__padscore__kpad.html#a96f430bba792b649157ec13502afdcc9',1,'KPADStatus']]],
   ['predscale',['predScale',['../group__sndcore2__voice.html#a32113dcb06cc3952ec98062aa62f88e4',1,'AXVoiceAdpcmLoopData::predScale()'],['../group__sndcore2__voice.html#a32113dcb06cc3952ec98062aa62f88e4',1,'AXVoiceAdpcm::predScale()']]],
@@ -50,7 +46,7 @@ var searchData=
   ['previous',['previous',['../group__coreinit__memfrmheap.html#aac9219792e115bd086e8f84fa21160a3',1,'MEMFrmHeapState']]],
   ['previousstate',['previousState',['../group__coreinit__memfrmheap.html#ad52390af2c98d74581506059d24280c5',1,'MEMFrmHeap']]],
   ['prevsample',['prevSample',['../group__sndcore2__voice.html#a273983c580ac88713eb8a02489a4c249',1,'AXVoiceAdpcmLoopData::prevSample()'],['../group__sndcore2__voice.html#a273983c580ac88713eb8a02489a4c249',1,'AXVoiceAdpcm::prevSample()']]],
-  ['priority',['priority',['../group__coreinit__thread.html#a41b7c4ba47c44a632d5903b1f1338ad0',1,'OSThread::priority()'],['../group__sndcore2__voice.html#a90249de64da5ae5d7acd34da7ea1b857',1,'AXVoice::priority()']]],
+  ['priority',['priority',['../group__sndcore2__voice.html#a90249de64da5ae5d7acd34da7ea1b857',1,'AXVoice']]],
   ['proc_5fui',['proc_ui',['../group__proc__ui.html',1,'']]],
   ['procui',['ProcUI',['../group__proc__ui__procui.html',1,'']]],
   ['procui_2edox',['procui.dox',['../procui_8dox.html',1,'']]],
@@ -88,6 +84,5 @@ var searchData=
   ['program',['program',['../group__gx2__shader.html#af5ef574c353d6881fd517e032f3e0876',1,'GX2FetchShader::program()'],['../group__gx2__shader.html#af5ef574c353d6881fd517e032f3e0876',1,'GX2VertexShader::program()'],['../group__gx2__shader.html#af5ef574c353d6881fd517e032f3e0876',1,'GX2PixelShader::program()'],['../group__gx2__shader.html#af5ef574c353d6881fd517e032f3e0876',1,'GX2GeometryShader::program()']]],
   ['protocol',['protocol',['../curl_8h.html#ab30e8d7e05ae904d3248e0d51255c005',1,'curl_sockaddr::protocol()'],['../group__nsyshid__hid.html#ad124d3d2e02c729afa303c775295278e',1,'HIDDevice::protocol()']]],
   ['protocols',['protocols',['../curl_8h.html#a74f63a5d3aec20111258a06acd75fee7',1,'curl_version_info_data']]],
-  ['psf',['psf',['../group__coreinit__context.html#a373a185d9090db87a55ed12cf2622a08',1,'OSContext']]],
   ['psr',['psr',['../group__coreinit__coroutine.html#acf38eceea9a9b1cf5181500942a8854c',1,'OSCoroutine']]]
 ];

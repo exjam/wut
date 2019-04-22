@@ -1,18 +1,12 @@
 var searchData=
 [
-  ['family',['family',['../curl_8h.html#a4417150d9f858949bd9ea8794995ebcc',1,'curl_sockaddr']]],
-  ['features',['features',['../curl_8h.html#a95d087aa0676d2cbc3e25cdd045311f7',1,'curl_version_info_data']]],
-  ['filename',['filename',['../curl_8h.html#aeac90097f29f7529968697163cea5c18',1,'curl_fileinfo']]],
-  ['filetype',['filetype',['../curl_8h.html#af29da73c48d3df6e6930e619a989cece',1,'curl_fileinfo']]],
-  ['first',['first',['../group__coreinit__msgq.html#a278eb73b0cdb4b6029426dbd091b643f',1,'OSMessageQueue']]],
-  ['firstblock',['firstBlock',['../group__coreinit__memblockheap.html#a3f489ef875557f592a5c0dd7bcbfbcc5',1,'MEMBlockHeap']]],
-  ['firstfreeblock',['firstFreeBlock',['../group__coreinit__memblockheap.html#a69e21124166fecc9aedafa4e05e03647',1,'MEMBlockHeap']]],
-  ['flags',['flags',['../group__coreinit__fs.html#aac73acba77991b837a4434a4193a9ad0',1,'FSStat::flags()'],['../group__coreinit__memheap.html#a773b39d480759f67926cb18ae2219281',1,'MEMHeapHeader::flags()'],['../curl_8h.html#a6a36e81b5744ff152979cae202d37e78',1,'curl_httppost::flags()'],['../curl_8h.html#ac92588540e8c1d014a08cd8a45462b19',1,'curl_fileinfo::flags()'],['../group__gx2r__buffer.html#a17038ad40371704cf9225a359e40945d',1,'GX2RBuffer::flags()']]],
-  ['format',['format',['../group__gx2__shader.html#a480e3629a8b750c08f78f8660a6a9b89',1,'GX2AttribStream::format()'],['../group__gx2__surface.html#a89eb29b897d379cfed1e78754a078997',1,'GX2Surface::format()'],['../group__padscore__kpad.html#a7864fd50d470f893524181b4a59d9828',1,'KPADStatus::format()']]],
-  ['fpr',['fpr',['../group__coreinit__context.html#a67485ebee7cded94475a562cbd9d960d',1,'OSContext::fpr()'],['../group__coreinit__coroutine.html#a00edc3febb6baa30619c05e7bce8b51a',1,'OSCoroutine::fpr()']]],
-  ['fpscr',['fpscr',['../group__coreinit__context.html#a1bb7411f9602ddc316f0e483383eb2c9',1,'OSContext']]],
-  ['freeblocks',['freeBlocks',['../group__coreinit__unitheap.html#a65a9d090eb303fb57c33d24bd4b4b6e2',1,'MEMUnitHeap']]],
-  ['freelist',['freeList',['../group__coreinit__memexpheap.html#aa3cf50af50f30ee854a2f2e94584d2f8',1,'MEMExpHeap']]],
-  ['fsclient',['fsClient',['../namespacenn_1_1swkbd.html#a88aea16bd7a0f7033a96c773a78c79d1',1,'nn::swkbd::CreateArg']]],
-  ['func',['func',['../group__coreinit__taskq.html#a1c1534a2cfd2f65708a8fb23acabe665',1,'MPTask']]]
+  ['gain',['gain',['../group__sndcore2__voice.html#a7c07aa50dffd011a3b181ea4ecb54f8e',1,'AXVoiceAdpcm']]],
+  ['game_5fregion',['game_region',['../group__coreinit__mcp.html#ac8d3d0bda7ef348a9add1032d970eec7',1,'MCPSysProdSettings']]],
+  ['gid',['gid',['../curl_8h.html#a6567680a890171fbaa1a026477a858d3',1,'curl_fileinfo']]],
+  ['gpr',['gpr',['../group__coreinit__coroutine.html#a747f572c9cf8ccfc8c1cfcbf42d00fb3',1,'OSCoroutine']]],
+  ['green',['green',['../group__gx2__registers.html#af8d69af46156237d69b44a880e4f486e',1,'GX2BlendConstantColorReg']]],
+  ['group',['group',['../group__coreinit__alarms.html#a0d20c78ce80e301ed514bd4b4dec9ec0',1,'OSAlarm::group()'],['../group__coreinit__fs.html#a0d20c78ce80e301ed514bd4b4dec9ec0',1,'FSStat::group()']]],
+  ['groupid',['groupId',['../group__coreinit__memexpheap.html#a240bd5eb3babf83bfb18bdb4579dab03',1,'MEMExpHeap']]],
+  ['gx2rbuffer',['gx2rBuffer',['../group__gx2__shader.html#a25b16e3b4fe30d7d64d91d16e34bf846',1,'GX2VertexShader::gx2rBuffer()'],['../group__gx2__shader.html#a25b16e3b4fe30d7d64d91d16e34bf846',1,'GX2PixelShader::gx2rBuffer()'],['../group__gx2__shader.html#a25b16e3b4fe30d7d64d91d16e34bf846',1,'GX2GeometryShader::gx2rBuffer()']]],
+  ['gyro',['gyro',['../group__vpad__input.html#aad7d7453ad38e5fbfa2cd36160c73dfa',1,'VPADStatus']]]
 ];

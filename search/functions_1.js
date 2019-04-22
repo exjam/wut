@@ -8,6 +8,7 @@ var searchData=
   ['acinitialize',['ACInitialize',['../group__nn__ac__c.html#ga1456945fe4303e08071b97571b20d807',1,'ac_c.h']]],
   ['appearinputform',['AppearInputForm',['../namespacenn_1_1swkbd.html#aa842e0d72121231b26def8408f6102af',1,'nn::swkbd']]],
   ['appearkeyboard',['AppearKeyboard',['../namespacenn_1_1swkbd.html#a76806eeb7e1a22c84f8dfbd69996f396',1,'nn::swkbd']]],
+  ['avmgetdrcscanmode',['AVMGetDRCScanMode',['../group__avm__drc.html#ga93c5e85646ab52511fb53f712b7ae89f',1,'drc.h']]],
   ['axacquirevoice',['AXAcquireVoice',['../group__sndcore2__voice.html#ga095e24f41296c9b5463fda47da652179',1,'voice.h']]],
   ['axacquirevoiceex',['AXAcquireVoiceEx',['../group__sndcore2__voice.html#gabdb10f222eb22d60a0bc08224df5573d',1,'voice.h']]],
   ['axcheckvoiceoffsets',['AXCheckVoiceOffsets',['../group__sndcore2__voice.html#ga368ad534d2dbc50ad8a7f1e507d3aef1',1,'voice.h']]],

@@ -3,7 +3,6 @@ var searchData=
   ['b_5fdata',['b_data',['../curl_8h.html#a2d85351ee922990b150731f4f7bbfe8c',1,'curl_fileinfo']]],
   ['b_5fsize',['b_size',['../curl_8h.html#a4d84b4a2cb178dc580aaf5b9bca1355e',1,'curl_fileinfo']]],
   ['b_5fused',['b_used',['../curl_8h.html#ab7e690a683e6b2f62ba53a40236c91ed',1,'curl_fileinfo']]],
-  ['basepriority',['basePriority',['../group__coreinit__thread.html#a6a68a5710d475b823ee9efb0396cdf49',1,'OSThread']]],
   ['basetime',['baseTime',['../group__coreinit__systeminfo.html#acf8faaa0b6021b87c47aac4be23c9511',1,'OSSystemInfo']]],
   ['battery',['battery',['../group__vpad__input.html#a89e04157c4e1f65c9ab63bffa365c8a6',1,'VPADStatus']]],
   ['bind',['bind',['../group__nsysnet__socket.html#ga82199bcd81894331533a25f08e172480',1,'socket.h']]],

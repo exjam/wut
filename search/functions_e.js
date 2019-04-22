@@ -102,6 +102,7 @@ var searchData=
   ['osinitspinlock',['OSInitSpinLock',['../group__coreinit__spinlock.html#ga6ebe9d5b1b3a82307f98dadce4433c31',1,'spinlock.h']]],
   ['osinitthreadqueue',['OSInitThreadQueue',['../group__coreinit__threadq.html#ga9e24384a0b5c23564ecc3bd579b36c72',1,'threadqueue.h']]],
   ['osinitthreadqueueex',['OSInitThreadQueueEx',['../group__coreinit__threadq.html#ga931797e96666028f05a637ef5a83a1ee',1,'threadqueue.h']]],
+  ['osisaddressvalid',['OSIsAddressValid',['../group__coreinit__memorymap.html#ga7f240467599ec067b5a4751a9bb9bdb3',1,'memorymap.h']]],
   ['osishomebuttonmenuenabled',['OSIsHomeButtonMenuEnabled',['../group__coreinit__systeminfo.html#gab644b456d915de741cedece15551eae5',1,'systeminfo.h']]],
   ['osismaincore',['OSIsMainCore',['../group__coreinit__core.html#gaeb060ef03e7d812f07709738601b004e',1,'core.h']]],
   ['osisthreadsuspended',['OSIsThreadSuspended',['../group__coreinit__thread.html#ga0074df288baf29c18a7c823c258ba353',1,'thread.h']]],

@@ -131,7 +131,7 @@ var searchData=
   ['oscompareandswapatomicex64',['OSCompareAndSwapAtomicEx64',['../group__coreinit__atomic64.html#ga141529bd9d34586e9f32a3df9027a438',1,'atomic64.h']]],
   ['oscondition',['OSCondition',['../group__coreinit__cond.html#structOSCondition',1,'OSCondition'],['../group__coreinit__cond.html#ga00db74c3d6ce5f40511557e92df133eb',1,'OSCondition():&#160;condition.h']]],
   ['osconsolewrite',['OSConsoleWrite',['../group__coreinit__debug.html#ga9ffd8f70cf674fb3e896370fb0aeec1a',1,'debug.h']]],
-  ['oscontext',['OSContext',['../group__coreinit__context.html#structOSContext',1,'OSContext'],['../group__coreinit__context.html#ga924296baf430a531adb5135a5cd54207',1,'OSContext():&#160;context.h']]],
+  ['oscontext',['OSContext',['../group__coreinit__context.html#ga924296baf430a531adb5135a5cd54207',1,'context.h']]],
   ['oscontinuethread',['OSContinueThread',['../group__coreinit__thread.html#ga6aa2bd70bb3560ca3811aa0215971cf8',1,'thread.h']]],
   ['oscoroutine',['OSCoroutine',['../group__coreinit__coroutine.html#structOSCoroutine',1,'OSCoroutine'],['../group__coreinit__coroutine.html#ga387b1e70ff9b2d2b0c0b1475d5ada848',1,'OSCoroutine():&#160;coroutine.h']]],
   ['oscreatealarm',['OSCreateAlarm',['../group__coreinit__alarms.html#ga5a664886e2a2735e954d8d82f5dfdcc8',1,'alarm.h']]],
@@ -226,6 +226,7 @@ var searchData=
   ['osinitspinlock',['OSInitSpinLock',['../group__coreinit__spinlock.html#ga6ebe9d5b1b3a82307f98dadce4433c31',1,'spinlock.h']]],
   ['osinitthreadqueue',['OSInitThreadQueue',['../group__coreinit__threadq.html#ga9e24384a0b5c23564ecc3bd579b36c72',1,'threadqueue.h']]],
   ['osinitthreadqueueex',['OSInitThreadQueueEx',['../group__coreinit__threadq.html#ga931797e96666028f05a637ef5a83a1ee',1,'threadqueue.h']]],
+  ['osisaddressvalid',['OSIsAddressValid',['../group__coreinit__memorymap.html#ga7f240467599ec067b5a4751a9bb9bdb3',1,'memorymap.h']]],
   ['osishomebuttonmenuenabled',['OSIsHomeButtonMenuEnabled',['../group__coreinit__systeminfo.html#gab644b456d915de741cedece15551eae5',1,'systeminfo.h']]],
   ['osismaincore',['OSIsMainCore',['../group__coreinit__core.html#gaeb060ef03e7d812f07709738601b004e',1,'core.h']]],
   ['osisthreadsuspended',['OSIsThreadSuspended',['../group__coreinit__thread.html#ga0074df288baf29c18a7c823c258ba353',1,'thread.h']]],
@@ -300,7 +301,7 @@ var searchData=
   ['ossignalsemaphore',['OSSignalSemaphore',['../group__coreinit__semaphore.html#ga5a1ba1984a871044aa31ff0f40d52806',1,'semaphore.h']]],
   ['ossleepthread',['OSSleepThread',['../group__coreinit__thread.html#ga40601ddddabf312483c9a3da0a924fa6',1,'thread.h']]],
   ['ossleepticks',['OSSleepTicks',['../group__coreinit__thread.html#gaec240f68873bb19c753cfdd346264c17',1,'thread.h']]],
-  ['osspinlock',['OSSpinLock',['../group__coreinit__spinlock.html#structOSSpinLock',1,'OSSpinLock'],['../group__coreinit__spinlock.html#gae8be4af7c8a7c9932e945f98e8a6b3e9',1,'OSSpinLock():&#160;spinlock.h']]],
+  ['osspinlock',['OSSpinLock',['../group__coreinit__spinlock.html#gae8be4af7c8a7c9932e945f98e8a6b3e9',1,'spinlock.h']]],
   ['ossuspendthread',['OSSuspendThread',['../group__coreinit__thread.html#ga97d4800cbe08b3e3cd68906a197bf587',1,'thread.h']]],
   ['osswapatomic',['OSSwapAtomic',['../group__coreinit__atomic.html#gaa7b8eca199558fc8e345b4355157e383',1,'atomic.h']]],
   ['osswapatomic64',['OSSwapAtomic64',['../group__coreinit__atomic64.html#ga91a5e551bb59d138380b5b3349c8c99b',1,'atomic64.h']]],
@@ -314,7 +315,7 @@ var searchData=
   ['ostestandsetatomic',['OSTestAndSetAtomic',['../group__coreinit__atomic.html#ga4f5db7a4ad6e4a26a95e3d2053e9ac30',1,'atomic.h']]],
   ['ostestandsetatomic64',['OSTestAndSetAtomic64',['../group__coreinit__atomic64.html#ga699a16866f1a192437f4766099635001',1,'atomic64.h']]],
   ['ostestthreadcancel',['OSTestThreadCancel',['../group__coreinit__thread.html#ga3d5f9fe631c3b30a30ee84a2d32a617c',1,'thread.h']]],
-  ['osthread',['OSThread',['../group__coreinit__thread.html#structOSThread',1,'OSThread'],['../group__coreinit__mutex.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;mutex.h'],['../group__coreinit__thread.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;thread.h'],['../group__coreinit__threadq.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;threadqueue.h']]],
+  ['osthread',['OSThread',['../group__coreinit__mutex.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;mutex.h'],['../group__coreinit__thread.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;thread.h'],['../group__coreinit__threadq.html#ga21cc46877b04baece01ef544fa06a906',1,'OSThread():&#160;threadqueue.h']]],
   ['osthreadattributes',['OSThreadAttributes',['../group__coreinit__thread.html#ga47c38b62e66b6163f6b080a35830897a',1,'thread.h']]],
   ['osthreadcleanupcallbackfn',['OSThreadCleanupCallbackFn',['../group__coreinit__thread.html#ga729a75fba87a2740d7af69aa8978ea5a',1,'thread.h']]],
   ['osthreaddeallocatorfn',['OSThreadDeallocatorFn',['../group__coreinit__thread.html#gac8fa3d74d8d161709d327e38eb426422',1,'thread.h']]],
@@ -353,5 +354,5 @@ var searchData=
   ['osxoratomic',['OSXorAtomic',['../group__coreinit__atomic.html#gaeb662c9d8e5968a656820d34052ddfe0',1,'atomic.h']]],
   ['osxoratomic64',['OSXorAtomic64',['../group__coreinit__atomic64.html#ga332cb62e0ae9ed883e3f7e2e87d48d65',1,'atomic64.h']]],
   ['osyieldthread',['OSYieldThread',['../group__coreinit__thread.html#gaabc089f75f232061a8ba1c2f4d3a9169',1,'thread.h']]],
-  ['owner',['owner',['../group__coreinit__fs.html#a110a9f93ec5f0655ba1aef5afb020e3c',1,'FSStat::owner()'],['../group__coreinit__mutex.html#acf3a8aadbeb5c6f5e8e6883865d082fa',1,'OSMutex::owner()'],['../group__coreinit__spinlock.html#a110a9f93ec5f0655ba1aef5afb020e3c',1,'OSSpinLock::owner()']]]
+  ['owner',['owner',['../group__coreinit__fs.html#a110a9f93ec5f0655ba1aef5afb020e3c',1,'FSStat::owner()'],['../group__coreinit__mutex.html#acf3a8aadbeb5c6f5e8e6883865d082fa',1,'OSMutex::owner()']]]
 ];

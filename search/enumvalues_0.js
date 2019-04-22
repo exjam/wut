@@ -1,5 +1,9 @@
 var searchData=
 [
+  ['avm_5fdrc_5fscan_5fmode_5funknown_5f0',['AVM_DRC_SCAN_MODE_UNKNOWN_0',['../group__avm__drc.html#ggabd77c24c41e1264b2007ddb49591f4adaf31ed06f548efc4d65eae3d14e041d74',1,'drc.h']]],
+  ['avm_5fdrc_5fscan_5fmode_5funknown_5f1',['AVM_DRC_SCAN_MODE_UNKNOWN_1',['../group__avm__drc.html#ggabd77c24c41e1264b2007ddb49591f4adae99eb7ddae485e911948543548f12427',1,'drc.h']]],
+  ['avm_5fdrc_5fscan_5fmode_5funknown_5f255',['AVM_DRC_SCAN_MODE_UNKNOWN_255',['../group__avm__drc.html#ggabd77c24c41e1264b2007ddb49591f4ada5cddb5261e52f01178073968d5b6edc9',1,'drc.h']]],
+  ['avm_5fdrc_5fscan_5fmode_5funknown_5f3',['AVM_DRC_SCAN_MODE_UNKNOWN_3',['../group__avm__drc.html#ggabd77c24c41e1264b2007ddb49591f4adaf26c0b396425ecf71833209447d85103',1,'drc.h']]],
   ['ax_5fdevice_5fmode_5funknown',['AX_DEVICE_MODE_UNKNOWN',['../group__sndcore2__device.html#gga62e50a0d02d2da1683cda793867060c6a269d87e77e206f193ce04f837293abe3',1,'device.h']]],
   ['ax_5fdevice_5ftype_5fcontroller',['AX_DEVICE_TYPE_CONTROLLER',['../group__sndcore2__device.html#gga08e97232ab9f9a048f80c8e5f8925646ad3508f57e09d34abdff65338a3f8ec96',1,'device.h']]],
   ['ax_5fdevice_5ftype_5fdrc',['AX_DEVICE_TYPE_DRC',['../group__sndcore2__device.html#gga08e97232ab9f9a048f80c8e5f8925646a0067230c11eb1380469750482896f2ff',1,'device.h']]],

@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['avmdrcscanmode',['AVMDrcScanMode',['../group__avm__drc.html#gabd77c24c41e1264b2007ddb49591f4ad',1,'drc.h']]],
   ['ax_5fdevice_5fmode',['AX_DEVICE_MODE',['../group__sndcore2__device.html#ga62e50a0d02d2da1683cda793867060c6',1,'device.h']]],
   ['ax_5fdevice_5ftype',['AX_DEVICE_TYPE',['../group__sndcore2__device.html#ga08e97232ab9f9a048f80c8e5f8925646',1,'device.h']]],
   ['ax_5fdrc_5fvs_5flc',['AX_DRC_VS_LC',['../group__sndcore2__drcvs.html#ga90107bb8ed08ed7a2db480688ede00cf',1,'drcvs.h']]],

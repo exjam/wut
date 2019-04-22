@@ -97,5 +97,6 @@ var searchData=
   ['wpadstatusprocontroller',['WPADStatusProController',['../group__padscore__wpad.html#structWPADStatusProController',1,'WPADStatusProController'],['../group__padscore__wpad.html#gaa55f844a25f2a9db917b6454ad112080',1,'WPADStatusProController():&#160;wpad.h']]],
   ['wpadvec2d',['WPADVec2D',['../group__padscore__wpad.html#structWPADVec2D',1,'WPADVec2D'],['../group__padscore__wpad.html#ga088a3c4185064930726ad03ec6b3f247',1,'WPADVec2D():&#160;wpad.h']]],
   ['wut_2eh',['wut.h',['../wut_8h.html',1,'']]],
+  ['wut_5falignas',['WUT_ALIGNAS',['../group__coreinit__context.html#gad130c049fa7f1cc7287aac53b9365e59',1,'WUT_ALIGNAS(8) OSContext:&#160;context.h'],['../group__coreinit__spinlock.html#ga46ab60649e9e54d32f6058bed6df94ca',1,'WUT_ALIGNAS(16) OSSpinLock:&#160;spinlock.h'],['../group__coreinit__thread.html#ga8a726fc00d3ec7659f577eda3b5295b2',1,'WUT_ALIGNAS(8) OSThread:&#160;thread.h']]],
   ['wut_5ftypes_2eh',['wut_types.h',['../wut__types_8h.html',1,'']]]
 ];

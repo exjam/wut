@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['avm',['avm',['../group__avm.html',1,'']]],
   ['alarms',['Alarms',['../group__coreinit__alarms.html',1,'']]],
   ['atomic_20operations',['Atomic Operations',['../group__coreinit__atomic.html',1,'']]],
   ['atomic_20operations_2064_20bit',['Atomic Operations 64 bit',['../group__coreinit__atomic64.html',1,'']]],

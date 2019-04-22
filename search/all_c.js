@@ -34,7 +34,7 @@ var searchData=
   ['libssh_5fversion',['libssh_version',['../curl_8h.html#a7d47645ee9d9590ae88869ec4d4f6623',1,'curl_version_info_data']]],
   ['libz_5fversion',['libz_version',['../curl_8h.html#acdb9741fdcde1137cd7f8cf273a4f6b0',1,'curl_version_info_data']]],
   ['linger',['linger',['../group__nsysnet__socket.html#structlinger',1,'']]],
-  ['link',['link',['../group__coreinit__alarms.html#a394e95a3ba6feaf90390cf136d69a6a1',1,'OSAlarm::link()'],['../group__coreinit__fastmutex.html#afa8c319f706a6446c1309c1734a51110',1,'OSFastMutex::link()'],['../group__coreinit__memheap.html#aad9bd11b4f59e92b6551361b5693960c',1,'MEMHeapHeader::link()'],['../group__coreinit__mutex.html#a7bd72373386c4d04a9fa7cf905f34572',1,'OSMutex::link()'],['../group__coreinit__thread.html#af7a13b9b9c0c4a91fd90af02e7ea7771',1,'OSThread::link()'],['../group__sndcore2__voice.html#aa62641249cff62aae9126d21faeeb8ad',1,'AXVoice::link()']]],
+  ['link',['link',['../group__coreinit__alarms.html#a394e95a3ba6feaf90390cf136d69a6a1',1,'OSAlarm::link()'],['../group__coreinit__fastmutex.html#afa8c319f706a6446c1309c1734a51110',1,'OSFastMutex::link()'],['../group__coreinit__memheap.html#aad9bd11b4f59e92b6551361b5693960c',1,'MEMHeapHeader::link()'],['../group__coreinit__mutex.html#a7bd72373386c4d04a9fa7cf905f34572',1,'OSMutex::link()'],['../group__sndcore2__voice.html#aa62641249cff62aae9126d21faeeb8ad',1,'AXVoice::link()']]],
   ['list',['list',['../group__coreinit__memheap.html#a9e168165b27e6d8c6a947314706ebdff',1,'MEMHeapHeader']]],
   ['listen',['listen',['../group__nsysnet__socket.html#ga5989c21d05cb17caba26cef496a7beea',1,'socket.h']]],
   ['location',['location',['../group__gx2__shader.html#a8f37ff59738c23420be43a6b1ba69769',1,'GX2SamplerVar::location()'],['../group__gx2__shader.html#a8f37ff59738c23420be43a6b1ba69769',1,'GX2AttribVar::location()'],['../group__gx2__shader.html#a8f37ff59738c23420be43a6b1ba69769',1,'GX2AttribStream::location()']]],
@@ -43,6 +43,5 @@ var searchData=
   ['loopingenabled',['loopingEnabled',['../group__sndcore2__voice.html#a09dc5d1452b744cf773cbf32e9406be3',1,'AXVoiceOffsets']]],
   ['loopoffset',['loopOffset',['../group__sndcore2__voice.html#a9cefb9f159e48b48fc25cdb8e78e5fb7',1,'AXVoiceOffsets']]],
   ['loopvarcount',['loopVarCount',['../group__gx2__shader.html#a9304dafa20b588a8b4a9fd2a1b17733c',1,'GX2VertexShader::loopVarCount()'],['../group__gx2__shader.html#a9304dafa20b588a8b4a9fd2a1b17733c',1,'GX2PixelShader::loopVarCount()'],['../group__gx2__shader.html#a9304dafa20b588a8b4a9fd2a1b17733c',1,'GX2GeometryShader::loopVarCount()']]],
-  ['loopvars',['loopVars',['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2VertexShader::loopVars()'],['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2PixelShader::loopVars()'],['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2GeometryShader::loopVars()']]],
-  ['lr',['lr',['../group__coreinit__context.html#a6ced3f4007bb60daf12191c058e55b8c',1,'OSContext']]]
+  ['loopvars',['loopVars',['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2VertexShader::loopVars()'],['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2PixelShader::loopVars()'],['../group__gx2__shader.html#a9247234a664bc816bc8c626395d43859',1,'GX2GeometryShader::loopVars()']]]
 ];

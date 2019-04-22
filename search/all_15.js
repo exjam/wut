@@ -36,7 +36,6 @@ var searchData=
   ['usercontext',['userContext',['../group__sndcore2__voice.html#aecf8a56c7369b86d173cb6253e26b0fe',1,'AXVoice']]],
   ['userdata',['userData',['../group__coreinit__alarms.html#a2e294dd14122c554baa0665072b4ca7a',1,'OSAlarm::userData()'],['../group__coreinit__taskq.html#a2e294dd14122c554baa0665072b4ca7a',1,'MPTask::userData()']]],
   ['userp',['userp',['../curl_8h.html#a7b5ec388916c74aa0010ca29022c72d2',1,'curl_httppost']]],
-  ['userstackpointer',['userStackPointer',['../group__coreinit__thread.html#a234a19eb0790f50fe6be08397cbafd46',1,'OSThread']]],
   ['usingheadphones',['usingHeadphones',['../group__vpad__input.html#aa98d79dfdbe69a2e73f32b96a37d4aac',1,'VPADStatus']]],
   ['utils_2eh',['utils.h',['../utils_8h.html',1,'']]]
 ];

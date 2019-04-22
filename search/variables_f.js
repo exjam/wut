@@ -1,19 +1,8 @@
 var searchData=
 [
-  ['offset',['offset',['../group__gx2__shader.html#a894bdfa2d603d8343f8ef01dda6fcd23',1,'GX2UniformBlock::offset()'],['../group__gx2__shader.html#a894bdfa2d603d8343f8ef01dda6fcd23',1,'GX2UniformVar::offset()'],['../group__gx2__shader.html#a894bdfa2d603d8343f8ef01dda6fcd23',1,'GX2UniformInitialValue::offset()'],['../group__gx2__shader.html#a894bdfa2d603d8343f8ef01dda6fcd23',1,'GX2LoopVar::offset()'],['../group__gx2__shader.html#a894bdfa2d603d8343f8ef01dda6fcd23',1,'GX2AttribStream::offset()']]],
-  ['offsets',['offsets',['../group__sndcore2__voice.html#a474317b6a6ec762b056d56cc8d151346',1,'AXVoice']]],
-  ['offsettomemorylink',['offsetToMemoryLink',['../group__coreinit__memlist.html#a1c1cef173ab860ec22956eb3500b914d',1,'MEMMemoryList']]],
-  ['oldlist',['oldList',['../group__gx2__event.html#a2c7284cad4276d5955c1456d5a055870',1,'GX2DisplayListOverrunData']]],
-  ['oldsize',['oldSize',['../group__gx2__event.html#a83c8763786939f9ba04441690a924818',1,'GX2DisplayListOverrunData']]],
-  ['onalloc',['onAlloc',['../structGX2DebugCaptureInterface.html#a8e670e5f59c71a4799069540f606a80d',1,'GX2DebugCaptureInterface']]],
-  ['oncaptureend',['onCaptureEnd',['../structGX2DebugCaptureInterface.html#a1619e28c113273e87bf2339bcd1c5b94',1,'GX2DebugCaptureInterface']]],
-  ['oncapturestart',['onCaptureStart',['../structGX2DebugCaptureInterface.html#a7522f6441e19fb80cdb4b21da744fafb',1,'GX2DebugCaptureInterface']]],
-  ['onfree',['onFree',['../structGX2DebugCaptureInterface.html#a68eb0161d4aad36e15c76dd1e30d4ef5',1,'GX2DebugCaptureInterface']]],
-  ['onshutdown',['onShutdown',['../structGX2DebugCaptureInterface.html#afdd52ac850766c51c16e85f0a9a65d27',1,'GX2DebugCaptureInterface']]],
-  ['onswapscanbuffers',['onSwapScanBuffers',['../structGX2DebugCaptureInterface.html#af2b47e53aa2504d49c12ead678e71d48',1,'GX2DebugCaptureInterface']]],
-  ['onunknownmemory',['onUnknownMemory',['../structGX2DebugCaptureInterface.html#aa6e1c45ba923a88daa34e7c47489be57',1,'GX2DebugCaptureInterface']]],
-  ['opaque',['opaque',['../zlib_8h.html#afb43594753f721206f8751bdc6f311ec',1,'z_stream_s']]],
-  ['option',['option',['../curl_8h.html#af62d6e5193ca9e15daab4c132e201605',1,'curl_forms']]],
-  ['os',['os',['../zlib_8h.html#a0c98ab56e4779bc5f994fdff60723115',1,'gz_header_s']]],
-  ['owner',['owner',['../group__coreinit__fs.html#a110a9f93ec5f0655ba1aef5afb020e3c',1,'FSStat::owner()'],['../group__coreinit__mutex.html#acf3a8aadbeb5c6f5e8e6883865d082fa',1,'OSMutex::owner()'],['../group__coreinit__spinlock.html#a110a9f93ec5f0655ba1aef5afb020e3c',1,'OSSpinLock::owner()']]]
+  ['queue',['queue',['../group__coreinit__cond.html#a4c72ffd2d6a41665aa8203649acbb46d',1,'OSCondition::queue()'],['../group__coreinit__event.html#a4c72ffd2d6a41665aa8203649acbb46d',1,'OSEvent::queue()'],['../group__coreinit__fastcond.html#a4c72ffd2d6a41665aa8203649acbb46d',1,'OSFastCondition::queue()'],['../group__coreinit__fastmutex.html#aca875af83d051fe0792ad13654a2e445',1,'OSFastMutex::queue()'],['../group__coreinit__mutex.html#a4c72ffd2d6a41665aa8203649acbb46d',1,'OSMutex::queue()'],['../group__coreinit__semaphore.html#a4c72ffd2d6a41665aa8203649acbb46d',1,'OSSemaphore::queue()'],['../group__coreinit__taskq.html#ae8f225ef46b10db211d105fd67bccc01',1,'MPTask::queue()'],['../group__coreinit__taskq.html#a12802e4b5156049dae3d74129908e92b',1,'MPTaskQueue::queue()']]],
+  ['queueindex',['queueIndex',['../group__coreinit__taskq.html#af1132f527322827ebaf69a986a0c8db5',1,'MPTaskQueue']]],
+  ['queuemaxsize',['queueMaxSize',['../group__coreinit__taskq.html#a428f566097f90b76ce7b6d79d481bb62',1,'MPTaskQueue']]],
+  ['queuesize',['queueSize',['../group__coreinit__taskq.html#acdc388d91657198c5b07921a3d849f23',1,'MPTaskQueue']]],
+  ['quotasize',['quotaSize',['../group__coreinit__fs.html#ac41961c9f7d077d8501e957be77e34f1',1,'FSStat']]]
 ];

@@ -1,19 +1,17 @@
 var searchData=
 [
-  ['easy_5fhandle',['easy_handle',['../multi_8h.html#a5000cbf12257367f7ae2773a26ff4483',1,'CURLMsg']]],
-  ['eeprom_5fversion',['eeprom_version',['../group__coreinit__mcp.html#aee543507479960091aacadaa69d840c0',1,'MCPSysProdSettings']]],
-  ['elemcount',['elemCount',['../group__gx2r__buffer.html#af065e9f4c61904d7e6208c6767ae0713',1,'GX2RBuffer']]],
-  ['elemsize',['elemSize',['../group__gx2r__buffer.html#adcb87f2809f48c3f44fc756c261ecde1',1,'GX2RBuffer']]],
-  ['end',['end',['../group__coreinit__memblockheap.html#a57dfa4d169c6b9c0b4e7352bc0c34366',1,'MEMBlockHeapBlock']]],
-  ['endianswap',['endianSwap',['../group__gx2__shader.html#a36155a846634b57e7140d1db7baee8a7',1,'GX2AttribStream']]],
-  ['endoffset',['endOffset',['../group__sndcore2__voice.html#a6bbb47cc3cc43b6a3e333a097378b249',1,'AXVoiceOffsets']]],
-  ['entryid',['entryId',['../group__coreinit__fs.html#a565c1b579da0c9f968488e046b2fe6b1',1,'FSStat']]],
-  ['entrypoint',['entryPoint',['../group__coreinit__thread.html#a5b1f5074d3ad451216e44edd1b73bc1d',1,'OSThread']]],
-  ['err',['err',['../group__padscore__wpad.html#a4028993b4bc2c4b88683e7cffeb01429',1,'WPADStatusProController']]],
-  ['error',['error',['../group__coreinit__context.html#aa8d183302fdfa4a6892f1d80300cdb32',1,'OSContext::error()'],['../group__padscore__kpad.html#abb80db0ecee8b18b2e2d87732b3a6387',1,'KPADStatus::error()'],['../group__vpad__input.html#adc64ccb7538429fe78e3fe0139267370',1,'VPADStatus::error()']]],
-  ['exitvalue',['exitValue',['../group__coreinit__thread.html#ab3b846817f872aed4903032f00d16246',1,'OSThread']]],
-  ['extensiontype',['extensionType',['../group__padscore__kpad.html#a05c631f3036f4e8dfafb19246eed7db8',1,'KPADStatus::extensionType()'],['../group__padscore__wpad.html#a05c631f3036f4e8dfafb19246eed7db8',1,'WPADStatusProController::extensionType()']]],
-  ['extra',['extra',['../zlib_8h.html#a2b260b4b03b66af0a115704504632b68',1,'gz_header_s']]],
-  ['extra_5flen',['extra_len',['../zlib_8h.html#a5ded8c4f212b31a3ad229496d74f1239',1,'gz_header_s']]],
-  ['extra_5fmax',['extra_max',['../zlib_8h.html#a8dcbcbd67c34445b41842b73a6d768f1',1,'gz_header_s']]]
+  ['family',['family',['../curl_8h.html#a4417150d9f858949bd9ea8794995ebcc',1,'curl_sockaddr']]],
+  ['features',['features',['../curl_8h.html#a95d087aa0676d2cbc3e25cdd045311f7',1,'curl_version_info_data']]],
+  ['filename',['filename',['../curl_8h.html#aeac90097f29f7529968697163cea5c18',1,'curl_fileinfo']]],
+  ['filetype',['filetype',['../curl_8h.html#af29da73c48d3df6e6930e619a989cece',1,'curl_fileinfo']]],
+  ['first',['first',['../group__coreinit__msgq.html#a278eb73b0cdb4b6029426dbd091b643f',1,'OSMessageQueue']]],
+  ['firstblock',['firstBlock',['../group__coreinit__memblockheap.html#a3f489ef875557f592a5c0dd7bcbfbcc5',1,'MEMBlockHeap']]],
+  ['firstfreeblock',['firstFreeBlock',['../group__coreinit__memblockheap.html#a69e21124166fecc9aedafa4e05e03647',1,'MEMBlockHeap']]],
+  ['flags',['flags',['../group__coreinit__fs.html#aac73acba77991b837a4434a4193a9ad0',1,'FSStat::flags()'],['../group__coreinit__memheap.html#a773b39d480759f67926cb18ae2219281',1,'MEMHeapHeader::flags()'],['../curl_8h.html#a6a36e81b5744ff152979cae202d37e78',1,'curl_httppost::flags()'],['../curl_8h.html#ac92588540e8c1d014a08cd8a45462b19',1,'curl_fileinfo::flags()'],['../group__gx2r__buffer.html#a17038ad40371704cf9225a359e40945d',1,'GX2RBuffer::flags()']]],
+  ['format',['format',['../group__gx2__shader.html#a480e3629a8b750c08f78f8660a6a9b89',1,'GX2AttribStream::format()'],['../group__gx2__surface.html#a89eb29b897d379cfed1e78754a078997',1,'GX2Surface::format()'],['../group__padscore__kpad.html#a7864fd50d470f893524181b4a59d9828',1,'KPADStatus::format()']]],
+  ['fpr',['fpr',['../group__coreinit__coroutine.html#a00edc3febb6baa30619c05e7bce8b51a',1,'OSCoroutine']]],
+  ['freeblocks',['freeBlocks',['../group__coreinit__unitheap.html#a65a9d090eb303fb57c33d24bd4b4b6e2',1,'MEMUnitHeap']]],
+  ['freelist',['freeList',['../group__coreinit__memexpheap.html#aa3cf50af50f30ee854a2f2e94584d2f8',1,'MEMExpHeap']]],
+  ['fsclient',['fsClient',['../namespacenn_1_1swkbd.html#a88aea16bd7a0f7033a96c773a78c79d1',1,'nn::swkbd::CreateArg']]],
+  ['func',['func',['../group__coreinit__taskq.html#a1c1534a2cfd2f65708a8fb23acabe665',1,'MPTask']]]
 ];
