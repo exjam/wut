@@ -13,6 +13,7 @@ main(int argc, char **argv)
    WHBProcInit();
    WHBLogConsoleInit();
    WHBLogPrintf(my_first_export());
+   WHBLogPrintf(my_first_export2());
 
    while(WHBProcIsRunning()) {
       WHBLogConsoleDraw();

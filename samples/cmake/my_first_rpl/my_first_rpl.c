@@ -8,6 +8,12 @@ my_first_export()
    return "Hello from my_first_rpl!";
 }
 
+const char *
+my_first_export2()
+{
+   return "Hello from my_first_rpl 2!";
+}
+
 int
 rpl_entry(OSDynLoad_Module module,
           OSDynLoad_EntryReason reason)
